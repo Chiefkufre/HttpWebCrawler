@@ -1,0 +1,19 @@
+{
+  "name": "httpwebcrawler",
+  "version": "1.0.0",
+  "description": "web crawler cmd package build on node system with full http flow",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+//github.com/Chiefkufre/HttpWebCrawler"
+  },
+  "author": "Samauel kufre willie",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
